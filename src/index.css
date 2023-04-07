@@ -23,6 +23,16 @@ ul{
  list-style-type: none; 
 }
 
+.btn-default{
+  padding: 12px 21px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background-color: greenyellow;
+  color: black;
+  border: 1px solid grey;
+  font-weight: 600;
+  cursor: pointer;
+}
 .btn{
   padding: 12px 21px;
   font-size: 1rem;
@@ -34,14 +44,14 @@ ul{
   cursor: pointer;
 }
 
-.btn-light{
+.btn-dark{
   background: transparent;
   color: grey;
 }
 
 
-.btn:hover{
-  background: green;
+.btn-default:hover{
+  background: palevioletred;
   color: white;
   transition:0.3s;
 }

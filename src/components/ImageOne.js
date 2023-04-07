@@ -12,12 +12,12 @@ const ImageOne = () => {
             src={IntroImg} alt="IntroImg"/>
         </div>
         <div className="content">
-            <p>KOREYA WASHINGTON | </p>
-            <h1>Front-End Developer.
+            <p>I AM KOREYA WASHINGTON | </p>
+            <h1>ReactJS Developer.
             
             </h1>
             <div>
-            <Link to="/projects" className="btn">Projects</Link>
+            <Link to="/projects" className="btn-default">Projects</Link>
             <Link to="/contact" className="btn-dark">Contact</Link>
         </div>
         </div>
