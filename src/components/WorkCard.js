@@ -1,6 +1,6 @@
 import "./WordCardStyles.css"
 import React from 'react'
-import pro1 from "../assets/Screenshot (83).png"
+import pro1 from "../assets/veneration.png"
 import { NavLink } from "react-router-dom"
 
 const WorkCard = () => {
@@ -10,7 +10,7 @@ const WorkCard = () => {
         <div className="project-container">
             <div className="project-card">
                <img src={pro1} alt="" />
-                <h2 className="project-title">Project Title</h2>
+                <h2 className="project-title">The Veneration of Arwe</h2>
                 <div className="pro-details">
                     <p>This is paragraph</p>
                     <div className="pro-btns">
