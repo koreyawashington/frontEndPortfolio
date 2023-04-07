@@ -1,0 +1,48 @@
+.hero-img{
+    width: 100%;
+    background-color: rgba(0,0,0,0.5);
+    height: 60vh;
+    position: relative;
+
+}
+
+.hero-img::before{
+    content: "";
+    background: url("https://edsurge.imgix.net/uploads/post/image/12176/coding-1556754232.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop");
+    background-size: cover;
+    background-position: center top;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.heading{
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction:column ;
+justify-content: center;
+align-items: center;
+}
+
+
+.hero-img h1{
+    font-size: 2.4rem;
+}
+
+.hero-img p {
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+@media screen and (max-width: 640px){
+    .hero-img h1{
+        font-size: 2rem;
+    }
+    
+
+    
+}
