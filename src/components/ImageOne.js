@@ -13,7 +13,7 @@ const ImageOne = () => {
         </div>
         <div className="content">
             <p>I AM KOREYA WASHINGTON | </p>
-            <h1>ReactJS Developer.
+            <h1>Front-End Developer.
             
             </h1>
             <div>

@@ -1,6 +1,5 @@
 import "./WordCardStyles.css"
 import React from 'react'
-import pro1 from "../assets/veneration.png"
 import { NavLink } from "react-router-dom"
 
 const WorkCard = (props) => {
@@ -25,7 +24,7 @@ const WorkCard = (props) => {
                         
                         <NavLink 
                         to={props.liveGame}
-                        className="btn">LIVE GAME</NavLink>
+                        className="btn">LIVE CODE</NavLink>
                          <NavLink 
                         to={props.repo}
                         className="btn">REPOSITORY</NavLink>
