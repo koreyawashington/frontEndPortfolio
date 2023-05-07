@@ -1,3 +1,16 @@
+# live website hosted on netlify link
+https://stalwart-cocada-55f826.netlify.app/
+# technologies used
+visual studio code
+youtube
+netlitfy
+github
+react
+# introduction
+This project does not tell all about me but it give a very good introduction of who I am as a coder. I am a beginner coder. I have never honestly wrote a line of code in my entire life and I am proud of all of my journey in software engineering and I know my ambition and wisdom will carry my coding and life's journey even further. I am blessed to have had this opportunity to show my skills and I am proud of myself regardless of how much other people want me to fail, I will succeed, graciously. 
+# future improvements
+my future improvements that I would like to add to this project is that I would like to add all of the projects that I have complted and future project. I would like to add music to set the mood to my profile and most importantly I would like to add a moreporfessional picture of myself so that people can put a face to this bomb coder and her coding skills. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
